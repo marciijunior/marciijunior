@@ -1,15 +1,19 @@
 ### Olá! Eu sou o Marcio 👋  
-<p  display="flex" align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciijunior)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciijunior/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marciijunior">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/marciijunior/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut&theme=onedark"/>
 </p>  
 
 ---
@@ -25,8 +29,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
 
-⭐ **Se gostou do meu perfil, não se esqueça de favoritar meus repositórios!** ⭐  
+⭐ **Se gostou do meu perfil, não esqueça de dar um star nos meus repositórios!** ⭐  
