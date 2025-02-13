@@ -12,8 +12,8 @@
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=onedark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut&theme=dracula"/>
 </p>  
 
 ---
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
