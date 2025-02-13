@@ -1,17 +1,15 @@
 ### Olá! Eu sou o Marcio 👋  
-<div>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciijunior)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciijunior)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciijunior/)  
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciijunior/)  
-</div>
+---
 
-<div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut&theme=onedark"/>
+</p>  
 
-  ![Marcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=onedark)  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
-</div>
 ---
 
 ## 🚀 Tecnologias que uso durante meu dia  
@@ -25,7 +23,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
