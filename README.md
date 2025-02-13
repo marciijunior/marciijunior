@@ -1,12 +1,16 @@
 ### Olá! Eu sou o Marcio 👋  
 <div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciijunior)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciijunior/)  
-</div>
-<div>
-![Marcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=onedark)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciijunior)  
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciijunior/)  
+</div>
+
+<div>
+
+  ![Marcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciijunior&show_icons=true&theme=onedark)  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciijunior&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 ---
 
